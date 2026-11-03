@@ -31,7 +31,7 @@ require (
 	github.com/sagernet/sing v0.8.2
 	github.com/sagernet/sing-box v1.13.2
 	github.com/shirou/gopsutil/v4 v4.26.2
-	github.com/xtls/xray-core v1.260327.0
+	github.com/xtls/xray-core v1.261031.0
 	golang.org/x/net v0.52.0
 	golang.org/x/term v0.41.0
 	golang.org/x/time v0.12.0
